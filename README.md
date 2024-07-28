@@ -12,14 +12,21 @@ link : https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset
 ## Kaggle
 link : https://www.kaggle.com/code/kameshrasu/gender-classification-model
 
-You can install the required packages using pip:
-```bash
-pip install tensorflow keras numpy pandas matplotlib seaborn
-'''
+## Installation
 
-git clone https://github.com/Kameshrasu/GENDER_CLASSIFICATION.git
-cd gender-GENDER_CLASSIFICATION
+1. **Clone the repository:**
 
-jupyter notebook Gender_Classification.ipynb
+    ```bash
+    git clone https://github.com/Kameshrasu/GENDER_CLASSIFICATION.git
+    cd GENDER_CLASSIFICATION
+    ```
+
+2. **Install the required Python packages:**
+
+    ```bash
+    pip install tensorflow keras numpy pandas matplotlib seaborn
+    ```
+
+
 
 
