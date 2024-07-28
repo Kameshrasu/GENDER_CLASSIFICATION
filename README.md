@@ -7,7 +7,7 @@ This repository contains a deep learning project aimed at classifying gender bas
 Gender classification is a significant task in computer vision with applications in various fields such as user profiling, human-computer interaction, security systems, and targeted advertising. This project aims to build a gender classification model using convolutional neural networks (CNNs).
 
 ## Dataset
-link : https://www.kaggle.com/code/kameshrasu/gender-classification-model
+link : https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset
 
 ## Kaggle
 link : https://www.kaggle.com/code/kameshrasu/gender-classification-model
@@ -15,7 +15,7 @@ link : https://www.kaggle.com/code/kameshrasu/gender-classification-model
 You can install the required packages using pip:
 ```bash
 pip install tensorflow keras numpy pandas matplotlib seaborn
-
+'''
 
 git clone https://github.com/Kameshrasu/GENDER_CLASSIFICATION.git
 cd gender-GENDER_CLASSIFICATION
